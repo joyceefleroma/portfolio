@@ -1,6 +1,7 @@
 # Profile Image
 
-Please add your profile picture here as `profile.jpg`.
+Please add your profile picture here as `images/profile.jpg
+`.
 
 **Recommended specifications:**
 - Format: JPG, PNG, or WebP
